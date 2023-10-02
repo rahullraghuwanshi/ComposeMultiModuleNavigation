@@ -29,7 +29,6 @@ class MainActivity : ComponentActivity() {
             onboardingFeatureApi = OnboardingFeatureImpl()
         )
 
-
         setContent {
             MyApplicationTheme {
                 // A surface container using the 'background' color from the theme
